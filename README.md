@@ -43,4 +43,4 @@
 ## 📫 Contact
 
 - 📧 Email: sjsoumya2005@gmail.com
-- 💼 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/soumya-senthilkumar-b6801a285))
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/soumya-senthilkumar-b6801a285)
